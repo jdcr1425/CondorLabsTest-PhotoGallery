@@ -16,4 +16,6 @@ Applying Condor Labs test
 ### Web application
 -Now, we have our servcice started and our database ready. Go to the other folder in the repository `Photo Gallery Frontend` and install the dependencies with `npm install` and the execute `npm start` and go to `http://localhost:3000` . if all is ok you will have a screen like this :
 
+![Screenshot](screenshot.png)
+
 
