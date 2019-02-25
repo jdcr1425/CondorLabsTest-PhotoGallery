@@ -19,3 +19,5 @@ Applying Condor Labs test
 ![Screenshot](screenshot.PNG)
 
 
+## Now you can upload photos and group them in albums as you want to.
+
