@@ -14,7 +14,7 @@ Applying Condor Labs test
 -Go to `Photo Gallery Backend` and look for a folder named as `database` and execute that script sql to create the database.
 
 ### Web application
--Now, we have our servcice started and our database ready. Go to the other folder in the repository `Photo Gallery Frontend` and install the dependencies with `npm install` and the execute `npm start` and go to `http://localhost:3000` . if all is ok you will have a screen like this :
+-Now, we have our servcice started and our database ready. Go to the other folder in the repository `Photo Gallery Frontend` and install the dependencies with `npm install` and then execute `npm start` and go to `http://localhost:3000` . if all is ok you will have a screen like this :
 
 ![Screenshot](screenshot.PNG)
 
